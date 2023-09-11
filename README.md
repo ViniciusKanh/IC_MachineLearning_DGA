@@ -14,7 +14,7 @@ Nossa Iniciação Científica (IC) é um mergulho profundo no mundo da análise 
 
 ## 📚 Documentação
 
-Para mais detalhes técnicos e descobertas fascinantes, confira nossa [Artigo](link_para_documentacao).
+Para mais detalhes técnicos e descobertas fascinantes, confira nossa [Relatorio](https://nbviewer.org/github/ViniciusKanh/IC_MachineLearning_DGA/blob/main/DGA_OPF_IC.ipynb).
 
 ## Como Você Pode Contribuir 🤝
 
